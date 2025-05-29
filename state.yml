@@ -1,6 +1,6 @@
 active: 0
 auction: null
-bank_money: 116210
+bank_money: 116430
 board:
 - name: go
   type: go
@@ -201,7 +201,7 @@ board:
   level: 0
   mortgaged: false
   name: Kentucky Avenue
-  owner: null
+  owner: luca
   rent:
   - 18
   - 90
@@ -413,14 +413,14 @@ goojf_ch_owner: null
 order:
 - luca
 - miri
-phase: post-roll
+phase: doubles-check
 players:
   luca:
     bankrupt: false
     consecutive_doubles: 0
     in_jail: false
     jail_time: 0
-    money: 1250
+    money: 1030
     position: 21
     url: git@github.com:lgloor/m1.git
   miri:
