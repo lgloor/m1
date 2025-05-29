@@ -1,0 +1,434 @@
+active: 0
+auction: null
+bank_money: 115660
+board:
+- name: go
+  type: go
+- house_cost: 50
+  level: 0
+  mortgaged: false
+  name: Mediterranean Avenue
+  owner: null
+  rent:
+  - 2
+  - 10
+  - 30
+  - 90
+  - 160
+  - 250
+  set: 1
+  type: street
+  value: 60
+- name: community_chest
+  type: community_chest
+- house_cost: 50
+  level: 0
+  mortgaged: false
+  name: Baltic Avenue
+  owner: null
+  rent:
+  - 4
+  - 20
+  - 60
+  - 180
+  - 320
+  - 450
+  set: 1
+  type: street
+  value: 60
+- name: Income Tax
+  type: tax
+  value: 200
+- mortgaged: false
+  name: Reading Railroad
+  owner: null
+  type: rail
+  value: 200
+- house_cost: 50
+  level: 0
+  mortgaged: false
+  name: Oriental Avenue
+  owner: null
+  rent:
+  - 6
+  - 30
+  - 90
+  - 270
+  - 400
+  - 550
+  set: 2
+  type: street
+  value: 100
+- name: Chance
+  type: chance
+- house_cost: 50
+  level: 0
+  mortgaged: false
+  name: Vermont Avenue
+  owner: null
+  rent:
+  - 6
+  - 30
+  - 90
+  - 270
+  - 400
+  - 550
+  set: 2
+  type: street
+  value: 100
+- house_cost: 50
+  level: 0
+  mortgaged: false
+  name: Connecticut Avenue
+  owner: null
+  rent:
+  - 8
+  - 40
+  - 100
+  - 300
+  - 450
+  - 600
+  set: 2
+  type: street
+  value: 120
+- name: jail
+  type: jail
+- house_cost: 100
+  level: 0
+  mortgaged: false
+  name: St. Charles Place
+  owner: null
+  rent:
+  - 10
+  - 50
+  - 150
+  - 450
+  - 625
+  - 750
+  set: 3
+  type: street
+  value: 140
+- mortgaged: false
+  name: Electric Company
+  owner: null
+  type: util
+  value: 150
+- house_cost: 100
+  level: 0
+  mortgaged: false
+  name: States Avenue
+  owner: null
+  rent:
+  - 10
+  - 50
+  - 150
+  - 450
+  - 625
+  - 750
+  set: 3
+  type: street
+  value: 140
+- house_cost: 100
+  level: 0
+  mortgaged: false
+  name: Virginia Avenue
+  owner: null
+  rent:
+  - 12
+  - 60
+  - 180
+  - 500
+  - 700
+  - 900
+  set: 3
+  type: street
+  value: 160
+- mortgaged: false
+  name: Pennsylvania Railroad
+  owner: null
+  type: rail
+  value: 200
+- house_cost: 100
+  level: 0
+  mortgaged: false
+  name: St. James Place
+  owner: null
+  rent:
+  - 14
+  - 70
+  - 200
+  - 550
+  - 750
+  - 950
+  set: 4
+  type: street
+  value: 180
+- name: community_chest
+  type: community_chest
+- house_cost: 100
+  level: 0
+  mortgaged: false
+  name: Tennessee Avenue
+  owner: null
+  rent:
+  - 14
+  - 70
+  - 200
+  - 550
+  - 750
+  - 950
+  set: 4
+  type: street
+  value: 180
+- house_cost: 100
+  level: 0
+  mortgaged: false
+  name: New York Avenue
+  owner: null
+  rent:
+  - 16
+  - 80
+  - 220
+  - 600
+  - 800
+  - 1000
+  set: 4
+  type: street
+  value: 200
+- name: free_parking
+  type: free_parking
+- house_cost: 150
+  level: 0
+  mortgaged: false
+  name: Kentucky Avenue
+  owner: null
+  rent:
+  - 18
+  - 90
+  - 250
+  - 700
+  - 875
+  - 1050
+  set: 5
+  type: street
+  value: 220
+- name: chance
+  type: chance
+- house_cost: 150
+  level: 0
+  mortgaged: false
+  name: Indiana Avenue
+  owner: null
+  rent:
+  - 18
+  - 90
+  - 250
+  - 700
+  - 875
+  - 1050
+  set: 5
+  type: street
+  value: 220
+- house_cost: 150
+  level: 0
+  mortgaged: false
+  name: Illinois Avenue
+  owner: null
+  rent:
+  - 20
+  - 100
+  - 300
+  - 750
+  - 925
+  - 1100
+  set: 5
+  type: street
+  value: 240
+- mortgaged: false
+  name: B&O Railroad
+  owner: null
+  type: rail
+  value: 200
+- house_cost: 150
+  level: 0
+  mortgaged: false
+  name: Atlantic Avenue
+  owner: null
+  rent:
+  - 22
+  - 110
+  - 330
+  - 800
+  - 975
+  - 1150
+  set: 6
+  type: street
+  value: 260
+- house_cost: 150
+  level: 0
+  mortgaged: false
+  name: Ventnor Avenue
+  owner: null
+  rent:
+  - 22
+  - 110
+  - 330
+  - 800
+  - 975
+  - 1150
+  set: 6
+  type: street
+  value: 260
+- mortgaged: false
+  name: Water Works
+  owner: null
+  type: util
+  value: 150
+- house_cost: 150
+  level: 0
+  mortgaged: false
+  name: Marvin Gardens
+  owner: null
+  rent:
+  - 24
+  - 120
+  - 360
+  - 850
+  - 1025
+  - 1200
+  set: 6
+  type: street
+  value: 280
+- name: go_to_jail
+  type: go_to_jail
+- house_cost: 200
+  level: 0
+  mortgaged: false
+  name: Pacific Avenue
+  owner: null
+  rent:
+  - 26
+  - 130
+  - 390
+  - 900
+  - 1100
+  - 1275
+  set: 7
+  type: street
+  value: 300
+- house_cost: 200
+  level: 0
+  mortgaged: false
+  name: North Carolina Avenue
+  owner: null
+  rent:
+  - 26
+  - 130
+  - 390
+  - 900
+  - 1100
+  - 1275
+  set: 7
+  type: street
+  value: 300
+- name: community_chest
+  type: community_chest
+- house_cost: 200
+  level: 0
+  mortgaged: false
+  name: Pennsylvania Avenue
+  owner: null
+  rent:
+  - 28
+  - 150
+  - 450
+  - 1000
+  - 1200
+  - 1400
+  set: 7
+  type: street
+  value: 320
+- mortgaged: false
+  name: Short Line
+  owner: null
+  type: rail
+  value: 200
+- name: chance
+  type: chance
+- house_cost: 200
+  level: 0
+  mortgaged: false
+  name: Park Place
+  owner: null
+  rent:
+  - 35
+  - 175
+  - 500
+  - 1100
+  - 1300
+  - 1500
+  set: 8
+  type: street
+  value: 350
+- name: Luxury Tax
+  type: tax
+  value: 100
+- house_cost: 200
+  level: 0
+  mortgaged: false
+  name: Boardwalk
+  owner: null
+  rent:
+  - 50
+  - 200
+  - 600
+  - 1400
+  - 1700
+  - 2000
+  set: 8
+  type: street
+  value: 400
+chance:
+- amount: 50
+  type: collect
+- amount: 50
+  type: pay
+- square: 0
+  type: advance_to
+- type: go_to_jail
+- type: goojf_ch
+community_chest:
+- amount: 50
+  type: collect
+- amount: 50
+  type: pay
+- square: 39
+  type: advance_to
+- type: go_to_jail
+- type: goojf_cc
+debt: null
+free-4-all-order: null
+goojf_cc_owner: null
+goojf_ch_owner: null
+order:
+- luca
+- miri
+phase: pre-roll
+players:
+  luca:
+    bankrupt: false
+    consecutive_doubles: 0
+    in_jail: false
+    jail_time: 0
+    money: 1500
+    position: 0
+    url: git@github.com:lgloor/m1.git
+  miri:
+    bankrupt: false
+    consecutive_doubles: 0
+    in_jail: false
+    jail_time: 0
+    money: 1500
+    position: 0
+    url: git@github.com:lgloor/m2.git
+winner: null
