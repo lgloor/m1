@@ -1,19 +1,6 @@
 active: 1
-auction:
-  asset: 24
-  initiator: miri
-  players:
-    luca:
-      bid: 0
-      last-action: pass
-      round: 0
-      winner: miri
-    miri:
-      bid: 1200
-      last-action: change
-      round: 1
-      winner: miri
-bank_money: 116430
+auction: null
+bank_money: 117630
 board:
 - name: go
   type: go
@@ -246,7 +233,7 @@ board:
   level: 0
   mortgaged: false
   name: Illinois Avenue
-  owner: null
+  owner: miri
   rent:
   - 20
   - 100
@@ -426,7 +413,7 @@ goojf_ch_owner: null
 order:
 - luca
 - miri
-phase: auction
+phase: post-roll
 players:
   luca:
     bankrupt: false
@@ -438,10 +425,10 @@ players:
     url: git@github.com:lgloor/m1.git
   miri:
     bankrupt: false
-    consecutive_doubles: 1
+    consecutive_doubles: 0
     in_jail: false
     jail_time: 0
-    money: 1200
-    position: 24
+    money: 0
+    position: 31
     url: git@github.com:lgloor/m2.git
 winner: null
