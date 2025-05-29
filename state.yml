@@ -1,6 +1,6 @@
 active: 1
 auction: null
-bank_money: 115980
+bank_money: 116160
 board:
 - name: go
   type: go
@@ -152,7 +152,7 @@ board:
   level: 0
   mortgaged: false
   name: St. James Place
-  owner: null
+  owner: miri
   rent:
   - 14
   - 70
@@ -413,7 +413,7 @@ goojf_ch_owner: null
 order:
 - luca
 - miri
-phase: post-roll
+phase: doubles-check
 players:
   luca:
     bankrupt: false
@@ -428,7 +428,7 @@ players:
     consecutive_doubles: 0
     in_jail: false
     jail_time: 0
-    money: 1380
+    money: 1200
     position: 16
     url: git@github.com:lgloor/m2.git
 winner: null
