@@ -1,6 +1,6 @@
 active: 0
 auction: null
-bank_money: 117962
+bank_money: 118312
 board:
 - name: go
   type: go
@@ -359,7 +359,7 @@ board:
   level: 0
   mortgaged: false
   name: Park Place
-  owner: null
+  owner: luca
   rent:
   - 35
   - 175
@@ -413,14 +413,14 @@ goojf_ch_owner: null
 order:
 - luca
 - miri
-phase: post-roll
+phase: doubles-check
 players:
   luca:
     bankrupt: false
     consecutive_doubles: 1
     in_jail: false
     jail_time: 0
-    money: 570
+    money: 220
     position: 37
     url: git@github.com:lgloor/m1.git
   miri:
