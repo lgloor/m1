@@ -1,6 +1,6 @@
 active: 0
 auction: null
-bank_money: 115660
+bank_money: 115720
 board:
 - name: go
   type: go
@@ -25,7 +25,7 @@ board:
   level: 0
   mortgaged: false
   name: Baltic Avenue
-  owner: null
+  owner: luca
   rent:
   - 4
   - 20
@@ -413,14 +413,14 @@ goojf_ch_owner: null
 order:
 - luca
 - miri
-phase: post-roll
+phase: doubles-check
 players:
   luca:
     bankrupt: false
     consecutive_doubles: 0
     in_jail: false
     jail_time: 0
-    money: 1500
+    money: 1440
     position: 3
     url: git@github.com:lgloor/m1.git
   miri:
