@@ -406,14 +406,17 @@ community_chest:
   type: advance_to
 - type: go_to_jail
 - type: goojf_cc
-debt: null
+debt:
+  amount: 50
+  creditor: bank
+  next_phase: post-roll
 free-4-all-order: null
 goojf_cc_owner: null
 goojf_ch_owner: null
 order:
 - luca
 - miri
-phase: roll
+phase: bankruptcy-prevention
 players:
   luca:
     bankrupt: false
@@ -426,9 +429,9 @@ players:
   miri:
     bankrupt: false
     consecutive_doubles: 0
-    in_jail: true
-    jail_time: 2
+    in_jail: false
+    jail_time: 0
     money: 15
-    position: 10
+    position: 20
     url: git@github.com:lgloor/m2.git
 winner: null
