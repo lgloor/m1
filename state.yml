@@ -1,6 +1,6 @@
 active: 1
 auction: null
-bank_money: 117890
+bank_money: 118022
 board:
 - name: go
   type: go
@@ -231,7 +231,7 @@ board:
   value: 220
 - house_cost: 150
   level: 0
-  mortgaged: true
+  mortgaged: false
   name: Illinois Avenue
   owner: miri
   rent:
@@ -428,7 +428,7 @@ players:
     consecutive_doubles: 0
     in_jail: false
     jail_time: 0
-    money: 200
+    money: 68
     position: 0
     url: git@github.com:lgloor/m2.git
 winner: null
