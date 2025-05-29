@@ -407,13 +407,15 @@ community_chest:
 - type: go_to_jail
 - type: goojf_cc
 debt: null
-free-4-all-order: null
+free-4-all-order:
+- luca
+- miri
 goojf_cc_owner: null
 goojf_ch_owner: null
 order:
 - luca
 - miri
-phase: doubles-check
+phase: free-4-all
 players:
   luca:
     bankrupt: false
