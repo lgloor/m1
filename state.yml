@@ -1,6 +1,6 @@
 active: 0
 auction: null
-bank_money: 117690
+bank_money: 117890
 board:
 - name: go
   type: go
@@ -350,7 +350,7 @@ board:
   value: 320
 - mortgaged: false
   name: Short Line
-  owner: null
+  owner: luca
   type: rail
   value: 200
 - name: chance
@@ -413,14 +413,14 @@ goojf_ch_owner: null
 order:
 - luca
 - miri
-phase: post-roll
+phase: doubles-check
 players:
   luca:
     bankrupt: false
     consecutive_doubles: 0
     in_jail: false
     jail_time: 0
-    money: 770
+    money: 570
     position: 35
     url: git@github.com:lgloor/m1.git
   miri:
