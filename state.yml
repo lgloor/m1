@@ -1,6 +1,6 @@
 active: 0
 auction: null
-bank_money: 118430
+bank_money: 118570
 board:
 - name: go
   type: go
@@ -117,7 +117,7 @@ board:
   level: 0
   mortgaged: false
   name: States Avenue
-  owner: null
+  owner: luca
   rent:
   - 10
   - 50
@@ -413,14 +413,14 @@ goojf_ch_owner: null
 order:
 - luca
 - miri
-phase: post-roll
+phase: doubles-check
 players:
   luca:
     bankrupt: false
     consecutive_doubles: 0
     in_jail: false
     jail_time: 0
-    money: 215
+    money: 75
     position: 13
     url: git@github.com:lgloor/m1.git
   miri:
