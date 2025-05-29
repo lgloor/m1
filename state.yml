@@ -1,6 +1,6 @@
 active: 0
 auction: null
-bank_money: 118176
+bank_money: 118376
 board:
 - name: go
   type: go
@@ -145,7 +145,7 @@ board:
   value: 160
 - mortgaged: false
   name: Pennsylvania Railroad
-  owner: null
+  owner: luca
   type: rail
   value: 200
 - house_cost: 100
@@ -413,14 +413,14 @@ goojf_ch_owner: null
 order:
 - luca
 - miri
-phase: post-roll
+phase: doubles-check
 players:
   luca:
     bankrupt: false
     consecutive_doubles: 0
     in_jail: false
     jail_time: 0
-    money: 419
+    money: 219
     position: 15
     url: git@github.com:lgloor/m1.git
   miri:
