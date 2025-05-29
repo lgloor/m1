@@ -1,18 +1,5 @@
 active: 1
-auction:
-  asset: 31
-  initiator: miri
-  players:
-    luca:
-      bid: 0
-      last-action: pass
-      round: 0
-      winner: none
-    miri:
-      bid: 0
-      last-action: pass
-      round: 0
-      winner: none
+auction: null
 bank_money: 117630
 board:
 - name: go
@@ -426,7 +413,7 @@ goojf_ch_owner: null
 order:
 - luca
 - miri
-phase: auction
+phase: doubles-check
 players:
   luca:
     bankrupt: false
