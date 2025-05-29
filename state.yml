@@ -12,7 +12,7 @@ auction:
       bid: 2
       last-action: pass
       round: 1
-      winner: unknown
+      winner: luca
 bank_money: 118376
 board:
 - name: go
