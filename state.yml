@@ -1,19 +1,6 @@
 active: 1
-auction:
-  asset: 26
-  initiator: miri
-  players:
-    luca:
-      bid: 1
-      last-action: change
-      round: 1
-      winner: luca
-    miri:
-      bid: 0
-      last-action: pass
-      round: 0
-      winner: luca
-bank_money: 118175
+auction: null
+bank_money: 118176
 board:
 - name: go
   type: go
@@ -266,7 +253,7 @@ board:
   level: 0
   mortgaged: false
   name: Atlantic Avenue
-  owner: null
+  owner: luca
   rent:
   - 22
   - 110
@@ -426,14 +413,14 @@ goojf_ch_owner: null
 order:
 - luca
 - miri
-phase: auction
+phase: doubles-check
 players:
   luca:
     bankrupt: false
     consecutive_doubles: 0
     in_jail: false
     jail_time: 0
-    money: 420
+    money: 419
     position: 9
     url: git@github.com:lgloor/m1.git
   miri:
