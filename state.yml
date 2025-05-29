@@ -1,19 +1,6 @@
 active: 0
-auction:
-  asset: 32
-  initiator: luca
-  players:
-    luca:
-      bid: 1
-      last-action: change
-      round: 1
-      winner: luca
-    miri:
-      bid: 0
-      last-action: pass
-      round: 0
-      winner: luca
-bank_money: 118429
+auction: null
+bank_money: 118430
 board:
 - name: go
   type: go
@@ -333,7 +320,7 @@ board:
   level: 0
   mortgaged: false
   name: North Carolina Avenue
-  owner: null
+  owner: luca
   rent:
   - 26
   - 130
@@ -426,14 +413,14 @@ goojf_ch_owner: null
 order:
 - luca
 - miri
-phase: auction
+phase: doubles-check
 players:
   luca:
     bankrupt: false
     consecutive_doubles: 0
     in_jail: false
     jail_time: 0
-    money: 216
+    money: 215
     position: 32
     url: git@github.com:lgloor/m1.git
   miri:
