@@ -1,6 +1,6 @@
 active: 1
 auction: null
-bank_money: 117890
+bank_money: 117690
 board:
 - name: go
   type: go
@@ -413,7 +413,7 @@ goojf_ch_owner: null
 order:
 - luca
 - miri
-phase: roll
+phase: post-roll
 players:
   luca:
     bankrupt: false
@@ -428,7 +428,7 @@ players:
     consecutive_doubles: 0
     in_jail: false
     jail_time: 0
-    money: 0
-    position: 31
+    money: 200
+    position: 0
     url: git@github.com:lgloor/m2.git
 winner: null
