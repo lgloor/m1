@@ -1,19 +1,6 @@
 active: 0
-auction:
-  asset: 23
-  initiator: luca
-  players:
-    luca:
-      bid: 3
-      last-action: change
-      round: 2
-      winner: luca
-    miri:
-      bid: 2
-      last-action: pass
-      round: 1
-      winner: luca
-bank_money: 118376
+auction: null
+bank_money: 118379
 board:
 - name: go
   type: go
@@ -231,7 +218,7 @@ board:
   level: 0
   mortgaged: false
   name: Indiana Avenue
-  owner: null
+  owner: luca
   rent:
   - 18
   - 90
@@ -420,20 +407,22 @@ community_chest:
 - type: go_to_jail
 - type: goojf_cc
 debt: null
-free-4-all-order: null
+free-4-all-order:
+- miri
+- luca
 goojf_cc_owner: null
 goojf_ch_owner: null
 order:
 - luca
 - miri
-phase: auction
+phase: free-4-all
 players:
   luca:
     bankrupt: false
     consecutive_doubles: 0
     in_jail: false
     jail_time: 0
-    money: 219
+    money: 216
     position: 23
     url: git@github.com:lgloor/m1.git
   miri:
