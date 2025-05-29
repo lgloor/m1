@@ -431,4 +431,4 @@ players:
     money: 0
     position: 20
     url: git@github.com:lgloor/m2.git
-winner: null
+winner: luca
