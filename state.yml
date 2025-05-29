@@ -413,7 +413,7 @@ goojf_ch_owner: null
 order:
 - luca
 - miri
-phase: doubles-check
+phase: pre-roll
 players:
   luca:
     bankrupt: false
