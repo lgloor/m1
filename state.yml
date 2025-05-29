@@ -413,7 +413,7 @@ goojf_ch_owner: null
 order:
 - luca
 - miri
-phase: roll
+phase: post-roll
 players:
   luca:
     bankrupt: false
@@ -421,7 +421,7 @@ players:
     in_jail: false
     jail_time: 0
     money: 1030
-    position: 21
+    position: 27
     url: git@github.com:lgloor/m1.git
   miri:
     bankrupt: false
