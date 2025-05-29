@@ -5,7 +5,7 @@ auction:
   players:
     luca:
       bid: 0
-      last-action: change
+      last-action: pass
       round: 0
       winner: unknown
     miri:
