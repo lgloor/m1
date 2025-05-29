@@ -12,7 +12,7 @@ auction:
       bid: 0
       last-action: pass
       round: 0
-      winner: unknown
+      winner: none
 bank_money: 117630
 board:
 - name: go
