@@ -1,6 +1,6 @@
 active: 0
 auction: null
-bank_money: 117890
+bank_money: 117830
 board:
 - name: go
   type: go
@@ -78,7 +78,7 @@ board:
   value: 100
 - house_cost: 50
   level: 0
-  mortgaged: false
+  mortgaged: true
   name: Connecticut Avenue
   owner: miri
   rent:
@@ -430,7 +430,7 @@ players:
     consecutive_doubles: 0
     in_jail: false
     jail_time: 0
-    money: 200
+    money: 260
     position: 0
     url: git@github.com:lgloor/m2.git
 winner: null
