@@ -7,7 +7,7 @@ auction:
       bid: 0
       last-action: pass
       round: 0
-      winner: unknown
+      winner: none
     miri:
       bid: 0
       last-action: pass
