@@ -10,8 +10,8 @@ auction:
       winner: unknown
     miri:
       bid: 1200
-      last-action: bid
-      round: 0
+      last-action: change
+      round: 1
       winner: unknown
 bank_money: 116430
 board:
