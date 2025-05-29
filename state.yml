@@ -1,6 +1,6 @@
 active: 0
 auction: null
-bank_money: 116160
+bank_money: 116210
 board:
 - name: go
   type: go
@@ -418,10 +418,10 @@ players:
   luca:
     bankrupt: false
     consecutive_doubles: 0
-    in_jail: true
-    jail_time: 2
-    money: 1300
-    position: 10
+    in_jail: false
+    jail_time: 0
+    money: 1250
+    position: 17
     url: git@github.com:lgloor/m1.git
   miri:
     bankrupt: false
