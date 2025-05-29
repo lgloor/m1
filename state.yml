@@ -7,7 +7,7 @@ auction:
       bid: 3
       last-action: change
       round: 2
-      winner: unknown
+      winner: luca
     miri:
       bid: 2
       last-action: pass
