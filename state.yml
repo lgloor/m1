@@ -1,6 +1,6 @@
-active: 1
+active: 0
 auction: null
-bank_money: 118570
+bank_money: 118585
 board:
 - name: go
   type: go
@@ -78,9 +78,9 @@ board:
   value: 100
 - house_cost: 50
   level: 0
-  mortgaged: true
+  mortgaged: false
   name: Connecticut Avenue
-  owner: miri
+  owner: null
   rent:
   - 8
   - 40
@@ -150,9 +150,9 @@ board:
   value: 200
 - house_cost: 100
   level: 0
-  mortgaged: true
+  mortgaged: false
   name: St. James Place
-  owner: miri
+  owner: null
   rent:
   - 14
   - 70
@@ -231,9 +231,9 @@ board:
   value: 220
 - house_cost: 150
   level: 0
-  mortgaged: true
+  mortgaged: false
   name: Illinois Avenue
-  owner: miri
+  owner: null
   rent:
   - 20
   - 100
@@ -406,17 +406,14 @@ community_chest:
   type: advance_to
 - type: go_to_jail
 - type: goojf_cc
-debt:
-  amount: 50
-  creditor: bank
-  next_phase: post-roll
+debt: null
 free-4-all-order: null
 goojf_cc_owner: null
 goojf_ch_owner: null
 order:
 - luca
 - miri
-phase: bankruptcy-prevention
+phase: pre-roll
 players:
   luca:
     bankrupt: false
@@ -427,11 +424,11 @@ players:
     position: 21
     url: git@github.com:lgloor/m1.git
   miri:
-    bankrupt: false
+    bankrupt: true
     consecutive_doubles: 0
     in_jail: false
     jail_time: 0
-    money: 15
+    money: 0
     position: 20
     url: git@github.com:lgloor/m2.git
 winner: null
