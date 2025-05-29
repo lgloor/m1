@@ -4,8 +4,8 @@ auction:
   initiator: luca
   players:
     luca:
-      bid: 1
-      last-action: change
+      bid: 3
+      last-action: bid
       round: 1
       winner: unknown
     miri:
