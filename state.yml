@@ -12,7 +12,7 @@ auction:
       bid: 1200
       last-action: change
       round: 1
-      winner: unknown
+      winner: miri
 bank_money: 116430
 board:
 - name: go
